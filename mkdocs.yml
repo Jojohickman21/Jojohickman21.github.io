@@ -1,0 +1,44 @@
+site_name: My Portfolio Website
+site_url: https://JosiahHickman-portfolio-website.com
+#repo_url: https://github.com/Twarner491/TeddyWarner.org
+#repo_name: Twarner491/TeddyWarner.org
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Jojohickman21
+      name: Github - Jojohickman21
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/josiah-hickman-1b9bb1261
+      name: Linked In - Josiah Hickman
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@josiahhickman5738
+      name: YouTube - @josiahhickman5738
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<jhickman@usc.edu>
+      name: Email - jhickman@usc.edu
+
+
+theme:
+  name: material
+  
+
+  palette:
+    - scheme: default
+      primary: black
+      accent: black
+      
+
+  font:
+    text: Fira Sans
+    code: Ubuntu Mono
+
+                          
+  features:
+   - navigation.footer
+   - header.autohide
+
+  
+
+  
